@@ -1,7 +1,5 @@
 package privatemethod;
 
-import java.util.Locale;
-
 public class Login {
     private static final String PREFIX = "1234";
 
